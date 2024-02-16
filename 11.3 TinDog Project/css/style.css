@@ -26,3 +26,18 @@
   height: 100px;
   border-radius: 50%;
 }
+
+button.btn-outline-secondary:hover {
+  background-color: white;
+  color: black;
+}
+
+button.btn-outline-secondary {
+  border-color: white;
+  color: white;
+}
+
+#features {
+  justify-content: center;
+  align-items: center;
+}
